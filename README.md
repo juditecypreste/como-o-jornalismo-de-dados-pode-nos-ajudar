@@ -1,4 +1,4 @@
-# Aplicações do Jornalismo de Dados
+# Como o Jornalismo de Dados pode nos ajudar
 
 Esta foi uma apresentação feita para jornalistas do Portal UOL. 
 
